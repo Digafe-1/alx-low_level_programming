@@ -1,14 +1,11 @@
 #include <stdlib.h>
-
 #include <time.h>
-
 #include <stdio.h>
 /**
 * main -print if number is positive, zero,or nagative
- * Return: always 0 (success)
+ * Return: always (success)
  *
  */
-
 int main(void)
 {
 	int n;
