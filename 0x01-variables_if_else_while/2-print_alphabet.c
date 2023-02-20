@@ -1,4 +1,4 @@
-#include < stdio.h>
+#include <stdio.h>
 /**
  * main Return lower case alphabet
  * ch: variable
