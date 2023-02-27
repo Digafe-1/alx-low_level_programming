@@ -5,13 +5,10 @@
  * @s: The string to be modified
  * Returns:void
  */
-
 void rev_string(char *s)
-
 {
 	int len = 0, index = 0;
-	char tem;
-
+	char tmp;
 
 	while (s[index++])
 		len++;
