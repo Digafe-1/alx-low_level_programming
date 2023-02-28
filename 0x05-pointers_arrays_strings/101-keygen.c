@@ -10,7 +10,7 @@
 int main(void)
 {
 	char passward[84];
-	int index = 0, sum 0, diff_half, diff_half2;
+	int index = 0, sum  = 0, diff_half1, diff_half2;
 
 	strand(time(0));
 
