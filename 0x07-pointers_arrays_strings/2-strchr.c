@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "main"
+#include "main.h"
 
 /**
  * _strchr - Entry point
@@ -16,5 +16,5 @@ char *_strchr(char *s, char c)
 		if (s[i] == c)
 			return (s + i);
 	}
-	return (null);
+	return (NULL);
 }
