@@ -1,7 +1,7 @@
 #include <unistd.h>
 
 /**
- * This is my _putchar.c
+ * This is my _putchac.c
  */
 int _putchar(char c)
 {
